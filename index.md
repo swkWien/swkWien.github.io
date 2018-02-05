@@ -1,5 +1,3 @@
-# Softwerkskammer Wien
-
 This is the homepage for the meta-data of Softwerkskammer Wien. It provides resources, such as presentations on past workshops as well as how-to documentation.
 
 As of yet, this page will not contain current news. To stay up-to-date on any current or upcoming workshops or trainings, follow the hash-tag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) on Twitter.
