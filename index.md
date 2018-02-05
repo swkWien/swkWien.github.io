@@ -1,6 +1,6 @@
 This is the homepage for the meta-data of Softwerkskammer Wien. It provides resources, such as presentations on past workshops as well as how-to documentation.
 
-As of yet, this page will not contain current news. To stay up-to-date on any current or upcoming workshops or trainings, follow the hash-tag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) on Twitter.
+As of yet, this page will not contain current news. To stay up-to-date on any current or upcoming workshops or trainings, follow the Twitter user [@swkWien](https://twitter.com/swkWien). For legacy purposes, there might be the occasional tweet with the hashtag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) as well.
 
 ## Past Sessions
 [This repository](https://github.com/swkWien/sessions) on GitHub holds the presentations of past sessions. Completed sessions are added as soon as possible.
