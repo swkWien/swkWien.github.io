@@ -1,5 +1,7 @@
 This is the homepage for the meta-data of Softwerkskammer Wien. It provides resources, such as presentations on past workshops as well as how-to documentation.
 
+The purpose of Softwerkskammer Wien is to represent the Softwerkskammer community in Vienna. It is about learning and extending ones skillset in the area of software engineering without limits regarding programming language or technology.
+
 As of yet, this page will not contain current news. To stay up-to-date on any current or upcoming workshops or trainings, follow the Twitter user [@swkWien](https://twitter.com/swkWien). For legacy purposes, there might be the occasional tweet with the hashtag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) as well.
 
 ## Past Sessions
