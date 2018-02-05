@@ -7,8 +7,8 @@ As of yet, this page will not contain current news. To stay up-to-date on any cu
 
 Use this as a reference to see what was already done.
 
-## How-To
-[A dedicated "How-To" page](http://swkWien.github.io/how-to/) lists all basic information for participants, hosts, organizers and moderators. If you find yourself in one of these roles, or would like to tell someone about it, this is the starting page.
+## How-To for Sessions
+The [sessions wiki](https://github.com/swkWien/sessions/wiki) lists all basic information for participants, hosts, organizers and moderators. If you find yourself in one of these roles, or would like to tell someone about it, this is the starting page.
 
 ## About (Origins)
 The organizational unit "swkWien" was previously called "Coding Dojo Vienna". It was created in late 2013/early 2014 because there simply was no such thing before. The mission statement: **Have a programming-language agnostic coding dojo every two weeks in Vienna, with changing hosts and moderators.** This was in line with the already existing Softwerkskammer community in the German speaking region, and was focusing on coding dojos exclusively. Yet, the focus on only just coding dojos became a bit narrow, and we've been considered the Viennese representatives for the Softwerkskammer anyway. Add some potential name clashes with "Coder Dojo", we've decided to rename in early 2018.
