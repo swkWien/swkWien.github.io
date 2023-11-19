@@ -2,7 +2,7 @@ This is the homepage for the meta-data of Softwerkskammer Wien. It provides reso
 
 The purpose of Softwerkskammer Wien is to represent the [Softwerkskammer](https://www.softwerkskammer.org/) community in Vienna. It is about learning and extending ones skillset in the area of software engineering without limits regarding programming language or technology.
 
-As of yet, this page will not contain current news. To stay up-to-date on any current or upcoming workshops or trainings, register with [Softwerkskammer  mailing list](http://www.softwerkskammer.org/groups/wien) or follow our Twitter user [@swkWien](https://twitter.com/swkWien). For legacy purposes, there might be the occasional tweet with the hashtag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) as well.
+This page doesn't contain any current news. To stay up-to-date on any current or upcoming dojos and/or retreats, register with [Softwerkskammer  mailing list](http://www.softwerkskammer.org/groups/wien), [Software Crafters Vienna Meetup Group](https://www.meetup.com/software-crafters-vienna/), or follow our Twitter user [@swkWien](https://twitter.com/swkWien). For legacy purposes, there might be the occasional tweet with the hashtag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) as well.
 
 ## Past Sessions
 [This repository](https://github.com/swkWien/sessions) on GitHub holds the presentations of past sessions. Completed sessions are added as soon as possible.
@@ -19,5 +19,6 @@ A coding dojo is a meeting where programmers of any experience level get togethe
 
 ## Further References
 * [GitHub Presence](https://github.com/swkWien) - The GitHub presence of swkWien
-* [Softwerkskammer](https://www.softwerkskammer.org/) - The community of software craftsmanship people in German countries (DACH region)
+* [Meetup Group](https://www.meetup.com/software-crafters-vienna/) - 
+* [Softwerkskammer](https://www.softwerkskammer.org/) - The community of software craftsmanship people in German-speaking countries (DACH region)
 * [Code Retreat](http://coderetreat.org/) - A full-day coding dojo
