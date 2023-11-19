@@ -19,6 +19,6 @@ A coding dojo is a meeting where programmers of any experience level get togethe
 
 ## Further References
 * [GitHub Presence](https://github.com/swkWien) - The GitHub presence of swkWien
-* [Meetup Group](https://www.meetup.com/software-crafters-vienna/) - 
+* [Meetup Group](https://www.meetup.com/software-crafters-vienna/) - Meetup Group Software Crafters Vienna
 * [Softwerkskammer](https://www.softwerkskammer.org/) - The community of software craftsmanship people in German-speaking countries (DACH region)
 * [Code Retreat](http://coderetreat.org/) - A full-day coding dojo
