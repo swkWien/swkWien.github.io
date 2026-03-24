@@ -2,14 +2,14 @@ This is the homepage for the meta-data of Softwerkskammer Wien. It provides reso
 
 The purpose of Softwerkskammer Wien is to represent the [Softwerkskammer](https://www.softwerkskammer.org/) community in Vienna. It is about learning and extending ones skillset in the area of software engineering without limits regarding programming language or technology.
 
-This page doesn't contain any current news. To stay up-to-date on any current or upcoming dojos and/or retreats, register with [Softwerkskammer  mailing list](http://www.softwerkskammer.org/groups/wien), [Software Crafters Vienna Meetup Group](https://www.meetup.com/software-crafters-vienna/), or follow our Twitter user [@swkWien](https://twitter.com/swkWien). For legacy purposes, there might be the occasional tweet with the hashtag [#CodingDojoVie](http://twitter.com/#CodingDojoVie) as well.
+This page doesn't contain any current news. To stay up-to-date on any current or upcoming dojos and/or retreats, watch our [discussions on GitHub](https://github.com/swkWien/sessions/discussions). We use no other channels or social media.
 
 ## Past Sessions
-[This repository](https://github.com/swkWien/sessions) on GitHub holds the presentations of past sessions. Completed sessions are added as soon as possible.
+[This repository](https://github.com/swkWien/sessions) on GitHub holds the presentations of past Coding Dojos and Coderetreats. Material is added as soon as possible.
 
 Use this as a reference to see what was already done.
 
-## How-To for Sessions
+## How-To for Coding Dojo Sessions
 The [sessions wiki](https://github.com/swkWien/sessions/wiki) lists all basic information for participants, hosts, organizers and moderators. If you find yourself in one of these roles, or would like to tell someone about it, this is the starting page.
 
 ## About (Origins)
@@ -19,6 +19,4 @@ A coding dojo is a meeting where programmers of any experience level get togethe
 
 ## Further References
 * [GitHub Presence](https://github.com/swkWien) - The GitHub presence of swkWien
-* [Meetup Group](https://www.meetup.com/software-crafters-vienna/) - Meetup Group Software Crafters Vienna
-* [Softwerkskammer](https://www.softwerkskammer.org/) - The community of software craftsmanship people in German-speaking countries (DACH region)
 * [Code Retreat](http://coderetreat.org/) - A full-day coding dojo
