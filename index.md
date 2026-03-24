@@ -2,7 +2,7 @@ This is the homepage for the meta-data of Softwerkskammer Wien. It provides reso
 
 The purpose of Softwerkskammer Wien is to represent the [Softwerkskammer](https://www.softwerkskammer.org/) community in Vienna. It is about learning and extending ones skillset in the area of software engineering without limits regarding programming language or technology.
 
-This page doesn't contain any current news. To stay up-to-date on any current or upcoming dojos and/or retreats, watch our [discussions on GitHub](https://github.com/swkWien/sessions/discussions). We use no other channels or social media.
+This page doesn't contain any current news. To stay up-to-date on any current or upcoming dojos and/or retreats, watch our [discussions on GitHub](https://github.com/swkWien/sessions/discussions). We do not use any other channels or social media.
 
 ## Past Sessions
 [This repository](https://github.com/swkWien/sessions) on GitHub holds the presentations of past Coding Dojos and Coderetreats. Material is added as soon as possible.
@@ -19,4 +19,4 @@ A coding dojo is a meeting where programmers of any experience level get togethe
 
 ## Further References
 * [GitHub Presence](https://github.com/swkWien) - The GitHub presence of swkWien
-* [Code Retreat](http://coderetreat.org/) - A full-day coding dojo
+* [Coderetreat](http://coderetreat.org/) - A full-day coding dojo
